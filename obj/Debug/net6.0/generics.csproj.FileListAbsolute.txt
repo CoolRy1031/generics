@@ -1,0 +1,15 @@
+/Users/thatguy/code/C#/generics/bin/Debug/net6.0/generics
+/Users/thatguy/code/C#/generics/bin/Debug/net6.0/generics.deps.json
+/Users/thatguy/code/C#/generics/bin/Debug/net6.0/generics.runtimeconfig.json
+/Users/thatguy/code/C#/generics/bin/Debug/net6.0/generics.dll
+/Users/thatguy/code/C#/generics/bin/Debug/net6.0/generics.pdb
+/Users/thatguy/code/C#/generics/obj/Debug/net6.0/generics.csproj.AssemblyReference.cache
+/Users/thatguy/code/C#/generics/obj/Debug/net6.0/generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatguy/code/C#/generics/obj/Debug/net6.0/generics.AssemblyInfoInputs.cache
+/Users/thatguy/code/C#/generics/obj/Debug/net6.0/generics.AssemblyInfo.cs
+/Users/thatguy/code/C#/generics/obj/Debug/net6.0/generics.csproj.CoreCompileInputs.cache
+/Users/thatguy/code/C#/generics/obj/Debug/net6.0/generics.dll
+/Users/thatguy/code/C#/generics/obj/Debug/net6.0/refint/generics.dll
+/Users/thatguy/code/C#/generics/obj/Debug/net6.0/generics.pdb
+/Users/thatguy/code/C#/generics/obj/Debug/net6.0/generics.genruntimeconfig.cache
+/Users/thatguy/code/C#/generics/obj/Debug/net6.0/ref/generics.dll
